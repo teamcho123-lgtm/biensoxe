@@ -1,0 +1,5 @@
+*.pt
+*.pth
+*.zip
+*.rar
+__pycache__/
